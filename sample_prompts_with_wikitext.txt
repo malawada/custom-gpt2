@@ -1,0 +1,29 @@
+Enter a prompt: In his early life, he was a
+Max length: 50
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Original model:  In his early life, he was a little boy who used music to find his way to school without any problem, and after he was diagnosed he developed a severe asthma. He was diagnosed with bronchitis, and he died a year later.
+
+Finetuned model:  In his early life, he was a member of the Church of Scientology and <unk>. In 1985, he received a <unk> from several friends who 
+wished to help him develop a religious identity. Soon after graduating from the university in 1986,
+
+
+Enter a prompt: Over fifty percent of 
+Max length: 50
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Original model:  Over fifty percent of the United States had been hit during his first eight years in office — a major gain for Republican presidential contenders. During his second term, Mr. Trump's approval ratings fell by only one point, from an unfavorable rating of 26 percent
+Finetuned model:  Over fifty percent of all non @-@ migrant workers are employed in the restaurant industry, with nearly seven percent employed by 
+the restaurant industry. <unk> % are migrant <unk>, but 80 percent are employed from private companies. The food chain
+
+
+Enter a prompt: This year's superbowl was controversial because
+Max length: 
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Original model:  This year's superbowl was controversial because there was no one to stand in front of it. A great majority of the birds had gone for the wild, but their wild status was threatened by habitat loss.
+
+
+A team of nine researchers analysed
+Finetuned model:  This year's superbowl was controversial because of possible competition from the New Zealand Institute for Conservation. A group 
+led by Sir Patrick <unk> described the species as " very <unk> " in a review of The New Zealand Times, saying the species

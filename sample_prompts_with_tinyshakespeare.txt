@@ -1,0 +1,62 @@
+Enter a prompt: This shall not be the last time
+Max length: 100
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Original model:  This shall not be the last time that an army of men will be assembled at Camp Hu'an-Ling for your sake," the military leaders said on Wednesday.
+
+The United States imposed sanctions against several countries in response to allegations that the Iranian forces were taking steps to interfere with Iran's pursuit of nuclear and ballistic missiles in a bid to boost national security threats, the U.S. Foreign Office said in a December report. 
+
+The American officials said it was an
+Finetuned model:  This shall not be the last time that you see
+Her husband's life upon account of this,
+And that she be found; nor if 'tis true.'
+
+EXETER:
+Good lords.
+
+KING RICHARD II:
+He hath been very gentle with her,
+Even I might have him in his household.
+
+RUTLAND:
+The one that she is for me is not by my heart;
+And he, after the other, bears very
+
+
+Enter a prompt: I bite my thumb at you
+Max length: 100
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Original model:  I bite my thumb at you with his big hard-boiled, uncluttered fingers. He turns and says, "I have no way that I can not do this again, and I'll go."
+
+
+He then hits his right hand lightly, forcing the other side of him on the ground. The other side of the room, the rest of the room, the body. Behind him he has the legs. He looks at the other side of his body, in the middle of
+Finetuned model:  I bite my thumb at you. If it be so,
+I know you will die, even as I am, to give it up.     
+
+LADY ANNE:
+Yes, no, but to the soul of this world.
+
+LADY ANNE:
+I fear you know you will die because you know not.    
+
+LADY ANNE:
+No.
+LADY ANNE:
+Heaven't said I'll kill me, or
+
+
+Enter a prompt: The current united states economy is 
+Max length: 100
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Original model:  The current united states economy is a great success but we should focus on the one-stop shop and not overwork and overconsumption of consumer goods. The more Americans who are unemployed and underused, the more we'll see the economy grow.”
+
+The following chart has been taken from a report released by the American Enterprise Institute (EA), which has analyzed government spending and business investment by U.S. taxpayers last year. The report is intended to gauge how many Americans
+Finetuned model:  The current united states economy is full of wars:
+That of these, which they call the
+Greatest Burgundy was the place of all the kingdoms
+Against that which now lay them at liberty
+To slaughter and pluck; for, on the other hand,
+
+
