@@ -44,10 +44,6 @@ class GPTTrainer():
         self.train_tokens = self.train_dataset.map(tokenize_function, batched=True)
         self.val_tokens = self.val_dataset.map(tokenize_function, batched=True)
 
-        # samples = self.train_tokens['input_ids'][0:10]
-        # batch = self.data_collator(samples)
-        # pdb.set_trace()
-
 
     def finetune(self, epochs=1):
         '''implement fine-tuning loop and evaluation'''
